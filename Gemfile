@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'binding_of_caller'
 gem "httparty"
 gem 'therubyracer', platforms: :ruby
+gem 'rails_12factor'
 
 # frontend
 gem 'bourbon'
