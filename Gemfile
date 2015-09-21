@@ -17,7 +17,7 @@ gem 'therubyracer', platforms: :ruby
 gem 'bourbon'
 gem 'neat'
 gem 'bitters'
-gem 'refills', git:'git@github.com:thoughtbot/refills.git'
+gem 'refills', git:'git://github.com/thoughtbot/refills.git'
 
 # gem 'net-ssh', "~>2.7"#, git: 'git@github.com:net-ssh/net-ssh.git'
 
